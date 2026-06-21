@@ -1,0 +1,6 @@
+{
+    "model": "SARIMAX (untuned)",
+    "rmse": 13.4878,
+    "mae": 10.9867,
+    "mape": 14.28
+}
